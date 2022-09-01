@@ -6,6 +6,6 @@ categories: post
 ---
 
 Testing on jekyll.
-Today, I learnt ho to use jekyll.
+Today, I learnt how to use jekyll.
 Hopefully I can keep updating this blog to show my progress and my current project.
 Adding more spice and sparkle here and there.
