@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Too Much"
+date:   2022-09-04 14:26:27 +0700
+categories: post
+permalink: "/post/too-much_20220904.html"
+---
+
+Today, I takes a vacation, it's just chiling and not stressing about it.
+and yeah, yesterday i tried to make a streamlined tensorflow nn model. with TextVectorizer, but something went wrong. I got error, probably because the embedding layer that i have that transform input layer to a size. Which is 2k, so the embeding layer is from 2k to 2k, so around 4 mil parameter. I have the same datatype to an example from tensorflow or keras. But something just went wrong, I will bash my head against the problem tommorow. Hopefully I can get it working.
