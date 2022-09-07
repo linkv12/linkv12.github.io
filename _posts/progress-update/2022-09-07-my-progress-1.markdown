@@ -15,4 +15,3 @@ The paper i read is [How important are activation functions in regression and cl
 
 I need to write and read more paper. Don't forget to download example paper since I can't write to save my skin. But I believe a step taken is still a progress.
 
-Finally, I'm sorry mom. I hope you're healty till the end.
